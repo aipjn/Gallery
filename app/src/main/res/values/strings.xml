@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="toolbar_title">Gallery</string>
+    <string name="action_map">Map</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_settings">Settings</string>
+</resources>
